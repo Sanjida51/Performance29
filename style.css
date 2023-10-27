@@ -1,14 +1,14 @@
 .tooltip{
     position:relative;
     display: inline-block;
-    background-color: blueviolet;
+    background-color: deeppink;
     color: #fff;
     margin-top: 200px;
 }
 .tooltip .toolText{
     visibility: hidden;
     width: 150px;
-    background-color: red;
+    background-color: blue;
     position: absolute;
     z-index: 2;
     padding: 1.5px;
@@ -43,6 +43,7 @@
 }
 .btn:hover{
     cursor:pointers;
+      background-color: gray;
 
 }
 .danger{
