@@ -3,7 +3,7 @@
     display: inline-block;
     background-color: deeppink;
     color: #fff;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 .tooltip .toolText{
     visibility: hidden;
